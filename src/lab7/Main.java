@@ -1,4 +1,4 @@
-package lab6.ch2;
+package lab7;
 
 public class Main {
 }
